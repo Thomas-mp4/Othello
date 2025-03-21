@@ -7,9 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
+  <!-- <ItemGroup>
     <Compile Include="Models\*.cs" />
     <Compile Include="Services\*.cs" />
-  </ItemGroup>
+  </ItemGroup> -->
 
 </Project>
